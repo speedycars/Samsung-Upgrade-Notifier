@@ -1,0 +1,1 @@
+PATHTOPYTHON2.7\Scripts\pyinstaller.exe --onefile samsung.py
